@@ -1,5 +1,6 @@
 @extends('layouts.master')
-<title>Empty | {{ env('APP_NAME', 'Xinui') }}</title>
+{{-- <title>Empty | {{ env('APP_NAME', 'Xinui') }}</title> --}}
+@section('title', 'Empty | ' . env('APP_NAME', 'Framework'))
 @section('content')
 <div class="container-fluid">
 

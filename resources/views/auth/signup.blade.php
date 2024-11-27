@@ -30,7 +30,7 @@
                     <div class="card custom-card my-4">
                         <div class="card-body p-5">
                             <div class="mb-4 d-flex justify-content-center">
-                                <a href="index.php.html">
+                                <a href="/">
                                     <img src="../assets/images/brand-logos/desktop-logo.png" alt="logo" class="desktop-logo">
                                     <img src="../assets/images/brand-logos/desktop-white.png" alt="logo" class="desktop-white">
                                 </a>
